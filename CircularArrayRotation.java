@@ -13,7 +13,6 @@
             a[i] = lastRotationCount[i];
         }
 
-
         for (int i = 0; i < queries.length; i++) {
             values[i] = a[queries[i]];
         }
